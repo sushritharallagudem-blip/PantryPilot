@@ -1,0 +1,10 @@
+env
+__pycache__/
+*.py[cod]
+pantry.json
+qdrant_data/
+.venv/
+venv/
+.env.*
+!.env.example
+.env
