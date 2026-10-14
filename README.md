@@ -3,6 +3,11 @@
 **AI-powered pantry management and meal suggestions to reduce food waste.**
 
 PantryPilot helps users manage pantry ingredients, monitor expiry dates, and discover meal ideas using the ingredients they already have. It integrates **Lyzr AI, Qdrant vector memory, and Omi voice input** to make meal planning more convenient.
+## 🚀 Live Demo
+
+**Try PantryPilot:** https://reduces-cam-promotional-manga.trycloudflare.com
+
+*Note: This temporary demo link works only while the server and tunnel are running.*
 
 ## Features
 
